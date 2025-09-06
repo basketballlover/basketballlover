@@ -42,30 +42,12 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00A0,50:00D9FF,100:8CFF00&height=60&section=header" width="100%" />
 </p>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-00D9FF?style=for-the-badge&logo=github&logoColor=FF00A0"/>
-  <img src="https://img.shields.io/badge/Top%20Stack%20Overflow%20Answerer-FF00A0?style=for-the-badge&logo=stackoverflow&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Continuous%20Learner-8CFF00?style=for-the-badge&logo=bookstack&logoColor=FF00A0"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00A0,50:00D9FF,100:8CFF00&height=40&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00A0,50:00D9FF,100:8CFF00&height=60&section=header" width="100%" />
-</p>
-
 ## 🔥 Programmer Activity
 
 <p align="center">
   <img src="https://img.shields.io/badge/Always%20Coding-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=FF00A0" />
   <img src="https://img.shields.io/badge/Weekly%20Commits-FF00A0?style=for-the-badge&logo=git&logoColor=00D9FF" />
-  <img src="https://img.io/badge/Open%20Source%20Active-8CFF00?style=for-the-badge&logo=github&logoColor=FF00A0"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Active-8CFF00?style=for-the-badge&logo=github&logoColor=FF00A0"/>
 </p>
 
 <p align="center">
